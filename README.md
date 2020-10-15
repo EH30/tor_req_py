@@ -11,6 +11,7 @@ sudo apt-get install tor
 service tor start   
    
 python3 rtor.py [youronionlinkhere.onion]   
+   
 --------------------   
 
 
